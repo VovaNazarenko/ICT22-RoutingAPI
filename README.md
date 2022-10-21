@@ -35,7 +35,7 @@ __________________________________________
   1.3. Класи і функції  
 2. [Програмний код (який працює без прив'язки до веб фреймворків)](https://github.com/VovaNazarenko/ICT22-RoutingAPI/tree/main/Project)     
   2.1. Python
-3. Демо коду із другого етапу з використанням Flask чи Django (на тестовому сервері)  
+3. [Демо коду із другого етапу з використанням Flask чи Django (на тестовому сервері)](https://github.com/VovaNazarenko/ICT22-RoutingAPI/tree/main/WebServiceDemo)    
  
  
 #### YouTube  
